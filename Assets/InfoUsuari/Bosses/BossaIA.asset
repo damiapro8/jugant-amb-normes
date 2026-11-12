@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7805a97fc46f2d478f6b12191b4fa5e, type: 3}
+  m_Name: BossaIA
+  m_EditorClassIdentifier: Assembly-CSharp::Bossa
+  fitxes:
+  - {fileID: 11400000, guid: 5d55978c111b7b648baa3172f66df23f, type: 2}
+  - {fileID: 11400000, guid: 12e5166cf49a2d044926bb0e6d58ee4c, type: 2}
+  - {fileID: 11400000, guid: 689b43babb437fa499afdebcb80f905a, type: 2}
+  - {fileID: 11400000, guid: 5cb5bdef4c648e84c866dc51e3361113, type: 2}
+  - {fileID: 11400000, guid: 58310b509db6beb4e85efad3a67beae8, type: 2}
+  - {fileID: 11400000, guid: 9ee6e9b9fb392be49829fde7b0c767fb, type: 2}
+  - {fileID: 11400000, guid: d00369dd1d9f41a4ba3f7ae0385ef5a9, type: 2}
+  - {fileID: 11400000, guid: e1ac59801050df442b5df1b2863da1ea, type: 2}

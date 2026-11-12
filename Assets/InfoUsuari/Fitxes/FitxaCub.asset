@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9afeee0c1e695094c95dfd15aad86a7b, type: 3}
+  m_Name: FitxaCub
+  m_EditorClassIdentifier: Assembly-CSharp::Fitxa
+  ID: 10
+  model: {fileID: 4805421803701359036, guid: fce0d5c7a283a154db87c8cbf024f0fe, type: 3}
+  CP: 1000
+  tipusFitxa: 0

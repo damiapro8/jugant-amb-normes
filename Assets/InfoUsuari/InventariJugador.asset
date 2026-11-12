@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa649cadcf26a1c468a292dc0c5b0593, type: 3}
+  m_Name: InventariJugador
+  m_EditorClassIdentifier: Assembly-CSharp::InventariJugador
+  Fitxes:
+  - {fileID: 11400000, guid: af6106f769ca8c64891569e8fcb99e5c, type: 2}
+  - {fileID: 11400000, guid: ab616261cbf4bf346be87058635fb20a, type: 2}
+  - {fileID: 11400000, guid: bf54d8951cfc2f64a8b608d20d16a74a, type: 2}
+  - {fileID: 11400000, guid: cd1d6dbaa2f2abd4e87a172eecf9b748, type: 2}
+  - {fileID: 11400000, guid: a06954c523fa19440a20a7515ef9bba4, type: 2}
+  - {fileID: 11400000, guid: 120ea00313a0bd44da0b36cfe99d5dff, type: 2}
+  - {fileID: 11400000, guid: 8925bfea34cee69459f767db4b48478e, type: 2}
+  - {fileID: 11400000, guid: a75cc654456f2144bae0e0b8b6d2fdf7, type: 2}
+  - {fileID: 11400000, guid: 1905146b39c648f48a67c7112ed60cdc, type: 2}
+  Bosses:
+  - {fileID: 11400000, guid: c923412317ec1f744ab589a592fbd3d4, type: 2}

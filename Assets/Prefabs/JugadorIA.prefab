@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8310679165342808468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7515615138695179981}
+  - component: {fileID: 7692612191107531026}
+  m_Layer: 0
+  m_Name: JugadorIA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7515615138695179981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8310679165342808468}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.28659463, y: 0.000000008085792, z: -0.6919061}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7692612191107531026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8310679165342808468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bbb5a4e266b2484f9fd470b92c5be6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::JugadorIA
+  ID: 1
+  nom: Didac
+  inventari: {fileID: 0}
+  prefabCotxe: {fileID: 2065733074220167319, guid: d7088f9b9a81abc4fa13d50139a22bec, type: 3}
+  cotxe: {fileID: 0}
+  prefabInventari: {fileID: 6025974468811830033, guid: d260a9b8d2e9e3949b58e695d7761cdc, type: 3}
+  Direccio: {x: 0, y: 0}
+  "for\xE7a": 1
+  "mutiplicadorFor\xE7a": 15
+  "sumadorFor\xE7a": 25
+  posObjectiu: {x: 0, y: 0, z: 0}

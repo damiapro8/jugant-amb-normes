@@ -1,0 +1,3 @@
+repository "Jugant amb Normes/Jugant amb Normes@20066370359659@cloud"
+  path "/"
+    smartbranch "/main" changeset "34"                              

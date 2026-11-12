@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34438c633b6916f418de5f66e579d8ce, type: 3}
+  m_Name: LlistaEvents
+  m_EditorClassIdentifier: Assembly-CSharp::LlistaEvents
+  grupEfectes:
+  - grup: Iniciador
+    color: {r: 0.6981132, g: 0.5624112, b: 0.14818443, a: 0}
+    efectes:
+    - {fileID: 11400000, guid: dfd9bdb7357ddf04ea3f1203e426507d, type: 2}
+    - {fileID: 11400000, guid: dd94f470374b6574d99a4b01c4cf7474, type: 2}
+  - grup: Accio
+    color: {r: 0.509434, g: 0.26192597, b: 0.49802384, a: 0}
+    efectes:
+    - {fileID: 11400000, guid: 4df0c571d97c52c429a974ff2e4be1e8, type: 2}
+  - grup: Selector
+    color: {r: 0, g: 0.8301887, b: 0.77716357, a: 0}
+    efectes:
+    - {fileID: 11400000, guid: a60203344136c8d4889ee93cee69bd31, type: 2}
+    - {fileID: 11400000, guid: 47b93a61fdf17e54dba0b9918abfcd9e, type: 2}
+  - grup: Actuador
+    color: {r: 0, g: 0.8313726, b: 0.77647066, a: 0}
+    efectes:
+    - {fileID: 11400000, guid: 3847843a8cb37d944ac5caa45da6533e, type: 2}
+    - {fileID: 11400000, guid: 2ab2e18dfa3499140ac06787ab1a2357, type: 2}
+    - {fileID: 11400000, guid: f598fa701beda6847b4cb8274951b94e, type: 2}

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6025974468811830033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 521327341474701491}
+  - component: {fileID: 3442419447927788141}
+  m_Layer: 0
+  m_Name: InventariIA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &521327341474701491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6025974468811830033}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000014901161, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.0649931, y: 1.02161835e-10, z: -0.34589323}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3442419447927788141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6025974468811830033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4b737ee224ba2947b0b942ea7c5cf85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InventariPartida
+  ma: []
+  limitMa: 3
+  dadesBossa: {fileID: 11400000, guid: 3f7927bc57dd4eb4fbbedb42e8912feb, type: 2}
+  limitBossa: 10
+  prefabFitxa: {fileID: 7383216649909484083, guid: 71039448e2e8c2245aa242e351be94e4, type: 3}
+  midaAmpladaMa: 10
+  "midaAl\xE7adaMa": 2
